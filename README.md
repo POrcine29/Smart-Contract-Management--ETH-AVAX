@@ -66,4 +66,5 @@ contract VendingMachine {
 ## Authors
 
 Orcine,Poliana J.
+
 8210778@ntc.edu.ph
