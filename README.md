@@ -33,7 +33,7 @@ Add a /buy endpoint to process purchase requests
 
 # Step 5: Set up smart contract
 
-Create a VendingMachine.sol file and add a simple Ethereum smart contract
+Create a 'VendingMachine.sol' file and add a simple Ethereum smart contract
 Define the buyProduct function to manage product purchases
 
 # Step 6: Connect frontend and backend
