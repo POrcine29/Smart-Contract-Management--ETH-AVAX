@@ -10,28 +10,33 @@ Via an API or SDK, the vending machine is linked to a MetaMask wallet. This enab
 
 ### Installing
 
-Step 1: Set up project structure
+## Step 1: Set up project structure
 
 Create a new folder for your project
 Create subfolders for frontend, backend, and smart contract
 Create a index.html file in the frontend folder
-Step 2: Install dependencies
+
+## Step 2: Install dependencies
 
 Install React, Web3, Ethers, and React-MetaMask using npm
-Step 3: Set up frontend code
+
+# Step 3: Set up frontend code
 
 Create a index.js file and add React code to connect to MetaMask
 Use Web3 and Ethers to interact with the Ethereum blockchain
 Use React-MetaMask to integrate MetaMask with your React app
-Step 4: Set up backend code
+
+# Step 4: Set up backend code
 
 Create a server.js file and set up an Express.js server
 Add a /buy endpoint to process purchase requests
-Step 5: Set up smart contract
+
+# Step 5: Set up smart contract
 
 Create a VendingMachine.sol file and add a simple Ethereum smart contract
 Define the buyProduct function to manage product purchases
-Step 6: Connect frontend and backend
+
+# Step 6: Connect frontend and backend
 
 Update the index.js file to call the /buy endpoint when a user makes a purchase
 Update the server.js file to call the smart contract's buyProduct function when a purchase is made
